@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "title": "Sylhet Strikers",
+        "name": "SS",
+        "like": "SSL",
+        "dislike": "SSD",
+        "dro": "SSDro",
+        "image": "https://th.bing.com/th/id/OIP.JcB2BSPceR0pDfhRhpHvXQHaFG?pid=ImgDet&rs=1",
+        "color": {
+            "text_color": "#3c9a24"
+        }
+    },
+    {
+        "id": 2,
+        "title": "Durdanto Dhaka",
+        "name": "DD",
+        "like": "DDL",
+        "dislike": "DDD",
+        "dro": "DDDro",
+        "image": "https://th.bing.com/th/id/OIP.pEh0yqiBiuKz3s7YEs9AWQHaJQ?pid=ImgDet&rs=1",
+        "color": {
+            "text_color": "#000080"
+        }
+    },
+    {
+        "id": 3,
+        "title": "Rangpur Riders",
+        "name": "RR",
+        "like": "RRL",
+        "dislike": "RRD",
+        "dro": "RRDro",
+        "image": "https://th.bing.com/th/id/R.8c2a448faa4f0571972180a08e3893d7?rik=0VkoE0wm13EE0A&riu=http%3a%2f%2fwww.tsmplug.com%2fwp-content%2fuploads%2f2015%2f11%2fRangpur-Riders-squad.jpg&ehk=cN9u8JUBb64nqPz6%2bg7HvYsVVilyUlH9wSMujkfrIME%3d&risl=&pid=ImgRaw&r=0",
+        "color": {
+            "text_color": "#ff3d3d"
+        }
+    },
+    {
+        "id": 4,
+        "title": "Khulna Tigers",
+        "name": "KT",
+        "like": "KTL",
+        "dislike": "KTD",
+        "dro": "KTDro",
+        "image": "https://th.bing.com/th/id/OIP.j07I6eovrgeywQxD_08_LQAAAA?pid=ImgDet&rs=1",
+        "color": {
+            "text_color": "#ab5b2a"
+        }
+    },
+    {
+        "id": 5,
+        "title": "Fortune Barishal",
+        "name": "FB",
+        "like": "FBL",
+        "dislike": "FBD",
+        "dro": "FBDro",
+        "image": "https://th.bing.com/th/id/OIP.njbZ9uTwce4D2pF1IYNMXQHaEK?pid=ImgDet&rs=1",
+        "color": {
+            "text_color": "#5c7b44"
+        }
+    },
+    {
+        "id": 6,
+        "title": "Comilla Victorians",
+        "name": "CV",
+        "like": "CVL",
+        "dislike": "CVD",
+        "dro": "CVDro",
+        "image": "https://th.bing.com/th/id/OIP.ix1U0S5UPMnDWXtVtgobAgAAAA?pid=ImgDet&rs=1",
+        "color": {
+            "text_color": "#3c1010"
+        }
+    },
+    {
+        "id": 7,
+        "title": "Chattogram Challengers",
+        "name": "CC",
+        "like": "CCL",
+        "dislike": "CCD",
+        "dro": "CCDro",
+        "image": "https://th.bing.com/th/id/R.c4cbf5edbf0060dddc3ef25a4f11cf6a?rik=PUxN8QkI%2fK1GPw&pid=ImgRaw&r=0",
+        "color": {
+            "text_color": "#baa131"
+        }
+    }
+]
